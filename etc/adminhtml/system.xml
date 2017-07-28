@@ -4,7 +4,6 @@
         <section id="customer" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
             <group id="bitExpert_ForceCustomerLogin" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
                 <label>bitExpert Force Customer Login</label>
-                <resource>BitExpert_ForceCustomerLogin::bitexpert_force_customer_login_manage</resource>
                 <field id="enabled" translate="label comment" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
                     <label>Enable Module</label>
                     <comment>Configures if the module is enabled</comment>
